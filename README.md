@@ -32,14 +32,4 @@ I'm a **First-Year Engineering Student** at Vedam School of Technology and an as
 * **Web Development** – Crafting responsive and interactive websites using JS and CSS.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="your-github-username" />
-</p>
-
----
-
-
 *“Learning, unlearning, and building the future.”*
