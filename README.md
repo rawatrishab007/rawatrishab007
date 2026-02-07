@@ -2,6 +2,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?user=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  rawatrishab007
 </p>
 
 I'm a **First-Year Engineering Student** at Vedam School of Technology and an aspiring **GSoC 2027** contributor. I love building web applications and solving complex problems using Java and Python.
