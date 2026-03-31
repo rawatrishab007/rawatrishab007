@@ -1,17 +1,17 @@
-# Hi there, I'm [Rishab] 👋 🚀
+# Hi there, I'm Rishab 👋 🚀
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?user=your-github-username&label=Profile%20views&color=0e75b6&style=flat" />
-  rawatrishab007
+  <img src="https://komarev.com/ghpvc/?user=rawatrishab007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-I'm a **First-Year Engineering Student** at Vedam School of Technology and an aspiring **GSoC 2027** contributor. I love building web applications and solving complex problems using Java and Python.
+I'm a **First-Year Engineering Student** at Vedam School of Technology and an aspiring **GSoC 2027** contributor. I love building web applications, exploring **Cloud/DevOps**, and solving complex problems using **Java, Python, and Go**.
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" /></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" /></a>
@@ -27,6 +27,7 @@ I'm a **First-Year Engineering Student** at Vedam School of Technology and an as
 
 ### 📂 Projects & Experience
 
+* **Golang Backend Utilities** – Building high-performance CLI tools, including a concurrent file searcher and student manager.
 * **Campus Collab Hub** – A platform for student collaboration built during my first hackathon.
 * **DSA Practice** – Solving and optimizing problems in Java to strengthen my logic for competitive programming.
 * **Web Development** – Crafting responsive and interactive websites using JS and CSS.
